@@ -1,0 +1,14 @@
+/* styles.css */
+/* Type selectors */
+body{
+    background-color: tan;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
